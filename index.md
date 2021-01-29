@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Ponybraynz!
 
 You can use the [editor on GitHub](https://github.com/mawanow/ponybraynz.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
